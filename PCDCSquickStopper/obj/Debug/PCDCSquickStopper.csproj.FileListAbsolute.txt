@@ -1,0 +1,5 @@
+c:\users\ytp\documents\visual studio 2013\Projects\PCDCSquickStopper\PCDCSquickStopper\bin\Debug\PCDCSquickStopper.exe.config
+c:\users\ytp\documents\visual studio 2013\Projects\PCDCSquickStopper\PCDCSquickStopper\bin\Debug\PCDCSquickStopper.exe
+c:\users\ytp\documents\visual studio 2013\Projects\PCDCSquickStopper\PCDCSquickStopper\bin\Debug\PCDCSquickStopper.pdb
+c:\users\ytp\documents\visual studio 2013\Projects\PCDCSquickStopper\PCDCSquickStopper\obj\Debug\PCDCSquickStopper.exe
+c:\users\ytp\documents\visual studio 2013\Projects\PCDCSquickStopper\PCDCSquickStopper\obj\Debug\PCDCSquickStopper.pdb
